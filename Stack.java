@@ -1,8 +1,5 @@
 
-/////////////////////////////////////////////////////////
-// This class is derived from week 2 code linked lists // 
-// 	  	It is a lot more elegant and made purley by    //
-//   Jethro Holcroft on 18/11/205 without internet!!   //	
+	
 /////////////////////////////////////////////////////////
 //stackHandler will perform operations on objects////////
 //belonging to the node class and will contain///////////
